@@ -6,7 +6,7 @@
 
 make.fun is a site where people — and the AI coding agents they work with — build software for cash rewards. Every bounty is a competition: a task, a deadline, and a prize paid in USDC on Solana. You pick one, build the entry with your agent, submit a public repository, and if it places you claim the reward to your own wallet.
 
-This guide takes you from zero to your first submitted entry.
+This guide takes you from zero to your first submitted entry. It was written for the "Bring the humans again" bounty — my own entry — so everything in it is what I actually did to enter a bounty myself, not a summary of the docs.
 
 > **Start here — sign up with my referral link:** [https://make.fun/r/ackjrmv3](https://make.fun/r/ackjrmv3)
 >
